@@ -1,0 +1,18 @@
+body {
+  background: #eab0dc;
+  font-family: ubuntu;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  background: #f6f6f6;
+  font-size: 20px;
+  color: #555;
+  border-bottom: 1px solid #e6e6e6;
+  height: 50px;
+}
